@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "729353212208",
+    "firebase_url": "https://setupfirebase-e2991-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "setupfirebase-e2991",
+    "storage_bucket": "setupfirebase-e2991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729353212208:android:d5ed7d4a96704cad81b8f5",
+        "android_client_info": {
+          "package_name": "com.Thinh.RPG"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33r3gp50Tm-10eB_g3lngIsefq54Fdf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
